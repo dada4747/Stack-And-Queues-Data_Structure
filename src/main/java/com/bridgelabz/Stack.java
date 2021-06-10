@@ -26,5 +26,12 @@ public class Stack {
     public INode lastestElementOfStack() {
         return linkList.head;
     }
+    public void dequeue() {
+        linkList.popLast();
+    }
+
+    public INode firstElementOfQueue() {
+        return linkList.tail;
+    }
 
 }

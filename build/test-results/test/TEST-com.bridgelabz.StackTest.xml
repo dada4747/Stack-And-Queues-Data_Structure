@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.bridgelabz.StackTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-06-10T09:52:48" hostname="DESKTOP-4IPP4FC" time="0.071">
+<testsuite name="com.bridgelabz.StackTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-06-10T10:01:02" hostname="DESKTOP-4IPP4FC" time="0.06">
   <properties/>
-  <testcase name="given3Nums_WhenEnqueued_ShouldBeLast()" classname="com.bridgelabz.StackTest" time="0.071"/>
-  <system-out><![CDATA[My Nodes: 70-->30-->56
-]]></system-out>
+  <testcase name="whenDequeued_TailShouldBeMovedBackOneNode()" classname="com.bridgelabz.StackTest" time="0.06"/>
+  <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
