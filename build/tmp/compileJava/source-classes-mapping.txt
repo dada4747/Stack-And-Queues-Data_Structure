@@ -2,7 +2,7 @@ com/bridgelabz/INode.java
  com.bridgelabz.INode
 com/bridgelabz/Node.java
  com.bridgelabz.Node
-com/bridgelabz/Stack.java
- com.bridgelabz.Stack
 com/bridgelabz/NewLinkList.java
  com.bridgelabz.NewLinkList
+com/bridgelabz/Stack.java
+ com.bridgelabz.Stack
