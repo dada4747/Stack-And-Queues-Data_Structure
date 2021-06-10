@@ -19,6 +19,12 @@ public class Stack {
     public INode pop() {
         return linkList.pop();
     }
+    public void enqueue (INode node){
+        linkList.append(node);
+    }
 
+    public INode lastestElementOfStack() {
+        return linkList.head;
+    }
 
 }
